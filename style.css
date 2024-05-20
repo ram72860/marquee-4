@@ -1,0 +1,15 @@
+body{
+    background-color:cyan;
+}
+form{
+    border: 2px solid red;
+    height: 830px;
+   width: 50%;
+   margin-left: 340px;
+
+   
+}
+.ram {
+    margin-left: 200px
+}
+
